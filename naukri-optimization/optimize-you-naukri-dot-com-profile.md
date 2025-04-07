@@ -57,11 +57,9 @@ But there's good news! With a few simple tweaks, you can increase your visibilit
     - Analyze job descriptions and include commonly used terms.
 
 Small improvements can make a big difference in your job search! Optimize your Naukri profile today and increase your chances of getting interview calls.
-"""
 
-# Write the content to a README.md file
+👉 [Follow me linkedIn](https://www.linkedin.com/in/harsh-singh10352/)
 
-with open("README.md", "w") as file:
-file.write(content)
+👉 [Follow my linkedIn Page -> HarryCodeCraft](https://www.linkedin.com/company/harrycodecraft)
 
-print("README.md file has been created successfully.")
+👉 [Follow me Instagram -> HarryCodeCraft](https://www.instagram.com/harrycodecraft)
