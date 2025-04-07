@@ -18,6 +18,6 @@ Stand out from the crowd. Land your dream job! 💼
 
 👉 [Follow me linkedIn](https://www.linkedin.com/in/harsh-singh10352/)
 
-👉 [Follow my linkedIn Page -> HarryCodeCraft](https://www.linkedin.com/in/harsh-singh10352/)
+👉 [Follow my linkedIn Page -> HarryCodeCraft](https://www.linkedin.com/company/harrycodecraft)
 
-👉 [Follow me Instagram -> HarryCodeCraft](https://www.linkedin.com/in/harsh-singh10352/)
+👉 [Follow me Instagram -> HarryCodeCraft](https://www.instagram.com/harrycodecraft)
