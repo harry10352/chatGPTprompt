@@ -58,8 +58,8 @@ But there's good news! With a few simple tweaks, you can increase your visibilit
 
 Small improvements can make a big difference in your job search! Optimize your Naukri profile today and increase your chances of getting interview calls.
 
-👉 [Follow me linkedIn](https://www.linkedin.com/in/harsh-singh10352/)
+👉 [Follow me on linkedIn](https://www.linkedin.com/in/harsh-singh10352/)
 
 👉 [Follow my linkedIn Page -> HarryCodeCraft](https://www.linkedin.com/company/harrycodecraft)
 
-👉 [Follow me Instagram -> HarryCodeCraft](https://www.instagram.com/harrycodecraft)
+👉 [Follow me on Instagram -> HarryCodeCraft](https://www.instagram.com/harrycodecraft)
